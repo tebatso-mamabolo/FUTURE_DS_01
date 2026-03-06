@@ -1,0 +1,101 @@
+Order_ID,Order_Date,Product,Category,Region,Revenue
+1,16/10/2024,Headphones,electronics,Western Cape,R 869.78
+2,12/07/2024,Keyboard,Electronics,Gauteng,649.74
+3,28/07/2024,Keyboard,Gadgets,Western Cape,
+4,2023-06-13,Smartphone,Accessories,Western Cape,690.61
+5,12-19-2023,Mouse,Electronics,North West,4870.96
+6,10-05-2024,Tablet,Electronics,Free State,419.96
+7,03-23-2023,Keyboard,Gadgets,KwaZulu-Natal,3251.29
+8,08-03-2023,laptop,electronics,North West,2763.87
+9,10-04-2023,Tablet,Accessories,Free State,4245.69
+10,2023-02-02,laptop,Accessories,Western Cape,1220.61
+11,2024-10-20,Tablet,Accessories,Free State,3785.67
+12,06/01/2024,Smartphone,Gadgets,North West,R 636.37
+13,23/04/2023,Smartphone,Gadgets,Mpumalanga,3062.76
+14,04-24-2024,Laptop,Electronics,Free State,3472.21
+15,2024-10-18,Smartphone,Electronics,gauteng,4778.32
+16,2024-05-27,laptop,Accessories,Mpumalanga,4240.01
+17,2024-01-18,Laptop,Accessories,North West,R 2545.31
+18,01-07-2024,Headphones,Electronics,Western Cape,
+19,05-12-2024,Smartphone,Gadgets,Western Cape,R 4744.87
+20,2024-06-24,Tablet,electronics,North West,3622.16
+21,2024-01-18,laptop,electronics,Western Cape,R 507.32
+22,21/07/2024,Tablet,Electronics,Gauteng,R 3597.64
+23,03-11-2023,laptop,electronics,North West,1536.69
+24,2024-08-07,Mouse,Gadgets,Mpumalanga,R 1113.97
+25,2024-03-17,Laptop,Electronics,Free State,490.94
+26,22/04/2023,Tablet,Gadgets,North West,R 872.88
+27,18/04/2024,laptop,Electronics,gauteng,442.82
+28,04-06-2023,Smartphone,Gadgets,gauteng,2510.52
+29,06-18-2023,Headphones,Gadgets,Mpumalanga,1569.2
+30,2024-07-23,Tablet,electronics,KwaZulu-Natal,4849.8
+31,18/11/2023,Mouse,electronics,North West,473.02
+32,03-12-2023,Tablet,Electronics,gauteng,4719.66
+33,2023-02-10,Monitor,electronics,KwaZulu-Natal,3414.68
+34,2023-05-15,Monitor,Electronics,Mpumalanga,244.71
+35,13/04/2023,Tablet,Accessories,North West,
+36,2023-09-08,Headphones,Electronics,North West,3405.74
+37,2023-04-17,laptop,electronics,Gauteng,1507.27
+38,07-28-2023,Mouse,Electronics,KwaZulu-Natal,643.03
+39,2023-01-04,Headphones,Gadgets,Western Cape,
+40,03-19-2023,Smartphone,Electronics,North West,4206.06
+41,11/05/2023,Monitor,Electronics,Mpumalanga,4514.84
+42,2023-04-16,Keyboard,electronics,North West,4643.67
+43,2023-07-01,Monitor,Gadgets,Mpumalanga,4050.73
+44,01/10/2023,laptop,Electronics,gauteng,4321.25
+45,04-16-2024,Tablet,Electronics,Western Cape,3368.16
+46,2023-03-13,Keyboard,Accessories,Free State,R 4708.34
+47,25/09/2023,Headphones,Electronics,Gauteng,3063.54
+48,2024-03-22,Keyboard,electronics,North West,
+49,07-05-2024,Tablet,Gadgets,KwaZulu-Natal,535.87
+50,2023-11-18,Headphones,Accessories,North West,3401.09
+51,21/07/2024,Keyboard,Gadgets,Free State,3451.13
+52,11-05-2023,Headphones,electronics,KwaZulu-Natal,2263.46
+53,04-21-2024,Mouse,electronics,Mpumalanga,3362.48
+54,09-26-2024,Tablet,Accessories,Free State,R 1278.28
+55,26/01/2023,Mouse,Electronics,North West,2386.0
+56,2024-12-14,Smartphone,Electronics,Free State,4484.77
+57,11/03/2024,Mouse,electronics,Gauteng,R 4603.86
+58,05-17-2023,Monitor,Gadgets,Mpumalanga,3140.73
+59,2024-07-15,Mouse,Accessories,gauteng,3808.53
+60,2024-06-17,Mouse,Accessories,Gauteng,1325.57
+61,24/03/2023,Tablet,electronics,gauteng,R 3590.81
+62,2024-02-22,Laptop,Gadgets,Western Cape,2069.49
+63,01-21-2023,Keyboard,Electronics,gauteng,4725.16
+64,03-05-2024,Tablet,electronics,gauteng,1510.09
+65,2024-11-15,Smartphone,Gadgets,Mpumalanga,4613.8
+66,02-08-2024,laptop,Gadgets,Free State,
+67,2024-01-24,Monitor,Gadgets,Mpumalanga,1535.63
+68,03-25-2023,Laptop,electronics,KwaZulu-Natal,3320.69
+69,2023-02-01,Laptop,electronics,North West,1345.02
+70,2023-08-12,Monitor,Electronics,Western Cape,R 3933.4
+71,15/11/2023,Laptop,Gadgets,KwaZulu-Natal,
+72,2024-12-08,Headphones,Electronics,Mpumalanga,
+73,2024-06-29,Monitor,Gadgets,Gauteng,R 4147.19
+74,01-06-2024,Smartphone,electronics,gauteng,3722.22
+75,2024-07-05,Headphones,electronics,KwaZulu-Natal,R 4187.51
+76,06/04/2024,Mouse,Gadgets,North West,1814.7
+77,14/05/2024,Headphones,Accessories,KwaZulu-Natal,4425.54
+78,2023-01-11,Tablet,Gadgets,Free State,2545.17
+79,2024-10-23,Laptop,Accessories,Gauteng,1263.66
+80,2024-08-18,Monitor,Accessories,gauteng,1888.69
+81,25/08/2023,Tablet,Electronics,KwaZulu-Natal,3765.83
+82,16/07/2023,Mouse,Accessories,KwaZulu-Natal,4906.45
+83,05/01/2024,Laptop,electronics,Free State,1516.69
+84,12-15-2024,Mouse,Electronics,Gauteng,2955.51
+85,2023-07-08,Mouse,Electronics,Gauteng,R 2123.4
+86,2024-10-06,Headphones,electronics,Gauteng,768.57
+87,25/09/2024,Keyboard,Gadgets,gauteng,1627.3
+88,08-05-2024,laptop,electronics,Mpumalanga,
+89,03/09/2023,laptop,Electronics,Western Cape,2160.88
+90,03/02/2023,Headphones,Gadgets,Free State,541.66
+91,10-02-2024,Tablet,Electronics,gauteng,2813.9
+92,26/05/2023,Smartphone,Accessories,Mpumalanga,3056.21
+93,25/03/2024,Headphones,Gadgets,Free State,4724.85
+94,03-24-2023,Monitor,Accessories,North West,324.15
+95,2024-08-12,Headphones,Electronics,North West,R 3862.92
+96,06-15-2024,Smartphone,Gadgets,North West,
+97,2023-12-23,laptop,electronics,Mpumalanga,1783.06
+98,2024-02-15,Mouse,Accessories,Gauteng,R 1411.51
+99,02-18-2024,Laptop,Gadgets,Free State,R 2183.59
+100,2024-01-06,Mouse,Electronics,Mpumalanga,1177.08
