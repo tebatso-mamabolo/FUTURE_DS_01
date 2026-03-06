@@ -1,6 +1,18 @@
+**BUSINESS SALES PERFORMANCE**
+
+***Tech Stack***
+
+*Microsoft Excel*: Used for initial data cleaning using Power Query.
+
+*Power BI (Power Query)*: Used for advanced cleaning and formatting.
+
+*Power BI (Desktop)*: Used for building the interactive dashboard and setting up Top N visual filters.
+
+
+
 <img width="914" height="509" alt="image" src="https://github.com/user-attachments/assets/263cb16e-b36f-4207-9f83-79d7a1435f27" />
 
-**SALES DASHBOARD**
+
 
 **Project Overview:**
 This project was a lesson in how "clean" data rarely stays clean. It started in Excel with a stubborn Date column and moved into Power BI, where a Revenue column decided to break. This dashboard is the final, polished result of that multi-tool cleanup battle.
